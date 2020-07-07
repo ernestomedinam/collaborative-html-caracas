@@ -2,7 +2,20 @@ body{
     background: #BDBDBD;
 }
 
+<<<<<<< HEAD
 .img-thumbnail{
     padding: 0px;
     margin-left: 30%;
 }
+=======
+
+.port-card{
+  height: 400px;
+
+}
+
+.port-image{
+  height: 60%
+
+}
+>>>>>>> a70ef98ffb83048121b0ffa0841db007f9855d99
