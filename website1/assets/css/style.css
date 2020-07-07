@@ -1,21 +1,24 @@
 body{
-    background: #BDBDBD;
+    background: white;
 }
 
-<<<<<<< HEAD
 .img-thumbnail{
     padding: 0px;
     margin-left: 30%;
 }
-=======
 
-.port-card{
-  height: 400px;
+.tagline{
+    background-image: 
+url(https://b340b999-9206-4440-bbc3-973ec7a7e3e2.ws-us02.gitpod.io/mini-browser/workspace/collaborative-html-caracas/website1/assets/img/bg.jpg);
+    background-repeat: no-repeat;
+     height:100vh;
+     width: 100%;
+     background-size: cover;
+     background-position: center;
 
 }
 
-.port-image{
-  height: 60%
-
+.tagtex{ 
+    background-color: rgba(255, 255, 255, 0.925);
+    margin:auto;
 }
->>>>>>> a70ef98ffb83048121b0ffa0841db007f9855d99
