@@ -1,3 +1,14 @@
 body{
     background: #BDBDBD;
 }
+
+
+.port-card{
+  height: 400px;
+
+}
+
+.port-image{
+  height: 60%
+
+}
