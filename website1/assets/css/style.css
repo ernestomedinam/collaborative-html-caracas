@@ -25,6 +25,12 @@ url(https://b340b999-9206-4440-bbc3-973ec7a7e3e2.ws-us02.gitpod.io/mini-browser/
      background-position: center;
 
 }
+.tagtex{ 
+    background-color: rgba(255, 255, 255, 0.925);
+    margin:auto;
+
+}
+
 
 <<<<<<< HEAD
 .port-image{
@@ -32,9 +38,7 @@ url(https://b340b999-9206-4440-bbc3-973ec7a7e3e2.ws-us02.gitpod.io/mini-browser/
 
 }
 =======
-.tagtex{ 
-    background-color: rgba(255, 255, 255, 0.925);
-    margin:auto;
-}
+
+
 >>>>>>> 0acdd1508deb6e3471f6765cd0c746116de922af
 >>>>>>> 5a55319e1c0c4ffd4d67ae13922a0e8bb5716a7c
